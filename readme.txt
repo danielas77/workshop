@@ -14,3 +14,4 @@ b=3;
 //alabala
 
 var a
+var b
