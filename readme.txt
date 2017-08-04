@@ -1,5 +1,4 @@
-//first line
-//second line
+//conflict master
 //3rd line
 //4
 //5
